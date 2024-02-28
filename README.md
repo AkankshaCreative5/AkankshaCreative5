@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akanksha Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="   https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frvrgithub&psig=AOvVaw2gSZHQRXhPeTA9TgBWort9&ust=1709230333817000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJj9nKnRzoQDFQAAAAAdAAAAABAs  ">
+<img align="right" alt="coding" width="400" src="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz_h4Sz6rPhDM10Yii0oE_N_R3oH6EhmKR_vMg83tMe3Z3FbWWzXez6lnjRC5ItR6sF8U&usqp=CAU   ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshacreative5&label=Profile%20views&color=0e75b6&style=flat" alt="akankshacreative5" /> </p>
 
